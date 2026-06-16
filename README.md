@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm Lavish Verma</h1>
-<h3 align="center">A passionate Full -stack and AI developer from India</h3>
+<div align="center">
 
+### 🚀 Developer | 🎓 College Student | 💡 Lifelong Learner
+
+Passionate about building software, exploring new technologies, and turning ideas into reality.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 College Student
+- 🌱 Currently learning and improving my development skills
+- 💻 Interested in Software Development, Open Source, and Problem Solving
+- 🚀 Always exploring new technologies and frameworks
+- 📫 Reach me: **your-email@example.com**
+- ⚡ Fun fact: I love learning by building real projects
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishv&label=Profile%20views&color=0e75b6&style=flat" alt="lavishv" /> </p>
 
 - 🔭 I’m currently working on **Stokify**
